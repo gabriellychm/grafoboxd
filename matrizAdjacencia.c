@@ -557,7 +557,7 @@ int main()
         printf("7. Grupo de Filmes Relacionados (Componentes Conexos)\n");
         printf("8. Rede Minima de Todos os Filmes (Prim)\n");
         printf("9. Listar filmes cadastrados\n");
-        printf("10. Imprimir grafo (matriz de adjacencia)\n");
+        printf("10. Imprimir grafo (Matriz de Adjacencia)\n");
         printf("11. Destruir grafo\n");
         printf("12. Sair\n");
         printf("Escolha a opcao: ");
@@ -616,7 +616,7 @@ int main()
 
             for (int i = 0; i < n; i++)
             {
-                printf("Filme %d: ", i+1);
+                printf("Filme %d: ", i + 1);
                 fgets(filmes[i], MAX_NOME, stdin);
 
                 size_t L = strlen(filmes[i]);
