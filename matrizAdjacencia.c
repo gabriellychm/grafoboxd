@@ -1,4 +1,4 @@
-/*Gabrielly Christina Moreira e Marcos André Trajano da Silva Júnior
+/*Gabrielly Christina Moreira, Marcos André Trajano da Silva Júnior e Yasmin de Oliveira Bonet
 
 Nosso trabalho é baseado na plataforma de filmes Letterboxd, onde o grafo será utilizado para representar as conexões entre usuário e seus filmes. Cada algoritmo representará uma função da plataforma.
 
