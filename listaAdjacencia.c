@@ -559,7 +559,7 @@ int main()
     for (int i = 0; i < MAX_FILMES; i++)
         filmes[i][0] = '\0';
 
-    printf("=== GRAFOBOXD ===\n");
+    printf("=== GRAFOBOXD (LISTA) ===\n");
 
     while (1)
     {
