@@ -632,7 +632,7 @@ int main()
             }
             for (int i = 0; i < n; i++)
             {
-                printf("Filme %d: ", i);
+                printf("Filme %d: ", i + 1);
                 fgets(filmes[i], MAX_NOME, stdin);
                 // remover newline final
                 size_t L = strlen(filmes[i]);
